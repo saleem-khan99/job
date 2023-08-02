@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+background-color: blueviolet;
+width: 20%;
+text-align: center;
+margin-left: 40%;
+border: solid green 3px;
+margin-top: 25px;
+color: aquamarine;
+}
+h2{
+    text-align: center;
+
+}
+div{
+    background-color: aqua;
+    text-align: center;
+
+
+}
